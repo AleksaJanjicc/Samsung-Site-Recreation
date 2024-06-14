@@ -1,0 +1,34 @@
+.threelines{
+    position:absolute;
+    top: 30px;
+    right:30px;
+}
+
+.samlogo{
+    position:absolute;
+    top:-16px;
+    left:22px;
+}
+
+.sambig{
+    margin:auto;
+    margin-top: 160px;
+}
+
+header{
+    display:flex;
+    position:relative;
+    justify-items: start;
+    align-items: start;
+    background-color: #f4f4f4;
+}
+
+flex{
+    display: flex;
+    width:100%;
+}
+
+.flexitem{
+    width:100%;
+}
+
